@@ -1,0 +1,138 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&display=swap');
+
+body{
+    background-color:#090A09 ;
+}
+section.txt{
+    font-family: 'Montserrat', normal;
+    font-size: 150pt;
+    margin-left: 40px;
+    margin-top: -100px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+
+}
+
+section.txt1{
+    font-family: 'Montserrat', normal;
+    font-size: 74pt;
+    margin-left: 40px;
+    margin-right: 30px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+}
+
+section.txt2{
+    font-family: 'Montserrat', normal;
+    font-size: 43pt;
+    margin-left: 100px;
+    margin-right: 0px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+}
+
+section.txt3{
+    font-family: 'Montserrat', normal;
+    font-size: 40pt;
+    margin-left: 505px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+}
+
+section.txt4{
+    font-family: 'Montserrat', normal;
+    font-size: 35pt;
+    margin-left: 40px;
+    margin-right: 350px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+}
+
+section.img{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 4fr;
+    gap: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    margin-bottom: 80px;
+}
+
+
+.titre1{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 630px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+    position :absolute;
+    top: 1535px;
+}
+
+
+.titre2{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 630px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+    position :absolute;
+    top: 2330px;
+}
+
+.titre3{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 630px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+    position :absolute;
+    top: 3125px;
+}
+
+.titre4{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 630px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+    position :absolute;
+    top: 3920px;
+}
+
+.titre5{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 630px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+    position :absolute;
+    top: 4710px;
+}
+
+
+.button{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+    left: 1390px;
+    display: inline-block;
+    width: 200px;
+    padding: 20px;
+    background-color: aliceblue;
+    color: #050507;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Montserrat', normal;
+    font-size: 34pt;
+
+}
+
+

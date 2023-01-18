@@ -1,0 +1,59 @@
+body{
+    background-color:#090A09 ;
+}
+.billet{
+    font-family: 'Montserrat', normal;
+    font-size: 150pt;
+    margin-top: -130px;
+    margin-left: 40px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+
+}
+
+.tarifs{
+    font-family: 'Montserrat', normal;
+    font-size: 35pt;
+    margin-top: -100px;
+    margin-left: 90px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+
+}
+
+.prix{
+    font-family: 'Montserrat', normal;
+    font-size: 35pt;
+    margin-top: -576px;
+    margin-left: 1400px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+
+}
+
+.points{
+    font-family: 'Montserrat', normal;
+    font-size: 35pt;
+    margin-top: -576px;
+    margin-left: 980px;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+
+}
+
+.button{
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    left: 1460px;
+    display: inline-block;
+    width: 130px;
+    padding: 10px;
+    background-color: aliceblue;
+    color: #050507;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Montserrat', normal;
+    font-size: 19pt;
+
+}
